@@ -23,3 +23,13 @@ Este projeto de Conversor de Moedas ofereçe 6 opções de conversão de moedas.
 
 ![https://pasteboard.co/i67msbS6uQYC.gif](https://gcdnb.pbrd.co/images/i67msbS6uQYC.gif?o=1)
 
+<h2>Badge de Conclusão do Curso</h2>
+
+[![Badge-Conversor.png](https://i.postimg.cc/G3yDRH8C/Badge-Conversor.png)](https://postimg.cc/XXnqcNkH)
+
+<h2>Certificado de Conclusão do Curso</h2>
+
+[![Certificado-Java-e-Orienta-o-a-Objetos-T6-Frente.jpg](https://i.postimg.cc/bvc2pYRs/Certificado-Java-e-Orienta-o-a-Objetos-T6-Frente.jpg)](https://postimg.cc/xX5dP2h2)
+
+[![Certificado-Java-e-Orienta-o-a-Objetos-T6-Verso.jpg](https://i.postimg.cc/GpK3Vbg0/Certificado-Java-e-Orienta-o-a-Objetos-T6-Verso.jpg)](https://postimg.cc/R33znxzG)
+
